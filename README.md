@@ -1,4 +1,4 @@
-# wundergroundHistoryDownloader
+# Wunderground History Downloader
 
 This script allows you to automatically save Historical data from [Wunderground](https://www.wunderground.com) and save it to CSV file.
 
